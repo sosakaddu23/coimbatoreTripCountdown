@@ -44,7 +44,7 @@ body {
 }
 
 .container img {
-    margin-left: 15rem;
+    margin: 0 auto;
 }
 
 .content {
